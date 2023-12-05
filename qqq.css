@@ -5,6 +5,14 @@
     font-size: 140%;
 }
 
+.line3{
+    background-color: orange;
+    text-align: center;
+    color: black;
+    font-size: 140%;
+    margin-top: 10px;
+}
+
 .cont{
     width: 600px;
     height: 450px;
@@ -64,6 +72,17 @@
     right: 15.4%;
 }
 
+.izmena1{
+    position: absolute;
+    right: 25.4%;
+    top: 50.7%;
+}
+
+.but{
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
 .contei1{
     margin-left: 35%;
     margin-right: 35%;
@@ -106,4 +125,31 @@
 .picc{
     float: left;
     width: 700px;
+}
+
+.qweqweqwe{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.izmen{
+    display: flex;
+    justify-content: space-between;
+}
+
+.teext{
+    color: orange;
+}
+
+.butn{
+    color: white;
+    margin: 0;
+}
+
+.pur{
+    background-color: orange;
+}
+
+.pur:hover{
+    background-color: rgb(141, 95, 9);
 }
